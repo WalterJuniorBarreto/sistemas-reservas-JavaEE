@@ -1,0 +1,4 @@
+db.driver=org.postgresql.Driver
+db.url=jdbc:postgresql://localhost:5432/sistemas-reservas
+db.user=TU_USUARIO_AQUI
+db.password=TU_PASSWORD_SECRETO
