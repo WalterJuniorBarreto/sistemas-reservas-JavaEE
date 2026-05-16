@@ -27,7 +27,7 @@ The project is designed to be "Environment-Agnostic", ready for CI/CD pipelines:
 * **Observability:** Integration of **SLF4J** for structured event logging instead of the standard `System.out`.
 * **Containerization:** Includes a `Dockerfile` optimized on `tomcat:10.1-jre17-temurin`, applying attack surface reduction by removing Tomcat's default applications.
 
-## 🛠️ Technologies & Clean Code
+## Technologies & Clean Code
 
 * **Language:** Java 21
 * **Web Framework:** Jakarta EE 10 (Servlets, JSP, JSTL)
